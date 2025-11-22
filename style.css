@@ -1,0 +1,34 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+button {
+  width: 100px;
+}
+.bg-body1 {
+  background-color: aqua;
+}
+.bg-body2 {
+  background-color: aqua;
+}
+
+.kotak {
+  width: 25px;
+  height: 25px;
+  margin: 10px auto;
+}
+.hijau {
+  background-color: green;
+}
+.biru {
+  background-color: blue;
+}
+.merah {
+  background-color: red;
+}
